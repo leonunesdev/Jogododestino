@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 + JavaScript
 
 ## 💻 Projeto
-Nesse projeto foi desenvolvido um jogo do destino, onde você pode fazer perguntas sobre o seu destino e ele te dara as respostas
+Nesse projeto foi desenvolvido um jogo do destino, onde você pode fazer perguntas sobre o seu destino e ele te dara as respostas.
 
 ## 📜 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/leonunesdev/Jogododestino/blob/main/LICENSE">LICENSE</a> para mais detalhes.
